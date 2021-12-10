@@ -1,0 +1,72 @@
+C:\Users\People\source\repos\Final Puzzle\Final Puzzle\bin\Debug\Final Puzzle.exe.config
+C:\Users\People\source\repos\Final Puzzle\Final Puzzle\bin\Debug\Final Puzzle.exe
+C:\Users\People\source\repos\Final Puzzle\Final Puzzle\bin\Debug\Final Puzzle.pdb
+C:\Users\People\source\repos\Final Puzzle\Final Puzzle\obj\Debug\Final Puzzle.csprojAssemblyReference.cache
+C:\Users\People\source\repos\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.Form1.resources
+C:\Users\People\source\repos\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.Properties.Resources.resources
+C:\Users\People\source\repos\Final Puzzle\Final Puzzle\obj\Debug\Final Puzzle.csproj.GenerateResource.cache
+C:\Users\People\source\repos\Final Puzzle\Final Puzzle\obj\Debug\Final Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\People\source\repos\Final Puzzle\Final Puzzle\obj\Debug\Final Puzzle.exe
+C:\Users\People\source\repos\Final Puzzle\Final Puzzle\obj\Debug\Final Puzzle.pdb
+E:\katanya kuliah\Testing\Final Puzzle\Final Puzzle\bin\Debug\Final Puzzle.exe.config
+E:\katanya kuliah\Testing\Final Puzzle\Final Puzzle\bin\Debug\Final Puzzle.exe
+E:\katanya kuliah\Testing\Final Puzzle\Final Puzzle\bin\Debug\Final Puzzle.pdb
+E:\katanya kuliah\Testing\Final Puzzle\Final Puzzle\obj\Debug\Final Puzzle.csprojAssemblyReference.cache
+E:\katanya kuliah\Testing\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.HalamanDepan.resources
+E:\katanya kuliah\Testing\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.Properties.Resources.resources
+E:\katanya kuliah\Testing\Final Puzzle\Final Puzzle\obj\Debug\Final Puzzle.csproj.GenerateResource.cache
+E:\katanya kuliah\Testing\Final Puzzle\Final Puzzle\obj\Debug\Final Puzzle.csproj.CoreCompileInputs.cache
+E:\katanya kuliah\Testing\Final Puzzle\Final Puzzle\obj\Debug\Final Puzzle.exe
+E:\katanya kuliah\Testing\Final Puzzle\Final Puzzle\obj\Debug\Final Puzzle.pdb
+E:\katanya kuliah\Testing\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.VENUS.resources
+E:\katanya kuliah\Testing\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.YUPITER.resources
+E:\katanya kuliah\Testing\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.BUMI.resources
+E:\katanya kuliah\Testing\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.URANUS.resources
+E:\katanya kuliah\Testing\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.MERKURIUS.resources
+E:\katanya kuliah\Testing\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.MARS.resources
+E:\katanya kuliah\Testing\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.SATURNUS.resources
+E:\katanya kuliah\Testing\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.NEPTUNUS.resources
+D:\Final Puzzle\Final Puzzle\bin\Debug\Final Puzzle.exe.config
+D:\Final Puzzle\Final Puzzle\bin\Debug\Final Puzzle.exe
+D:\Final Puzzle\Final Puzzle\bin\Debug\Final Puzzle.pdb
+D:\Final Puzzle\Final Puzzle\obj\Debug\Final Puzzle.csprojAssemblyReference.cache
+D:\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.BUMI.resources
+D:\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.HalamanDepan.resources
+D:\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.MARS.resources
+D:\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.MERKURIUS.resources
+D:\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.NEPTUNUS.resources
+D:\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.Properties.Resources.resources
+D:\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.SATURNUS.resources
+D:\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.URANUS.resources
+D:\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.VENUS.resources
+D:\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.YUPITER.resources
+D:\Final Puzzle\Final Puzzle\obj\Debug\Final Puzzle.csproj.GenerateResource.cache
+D:\Final Puzzle\Final Puzzle\obj\Debug\Final Puzzle.csproj.CoreCompileInputs.cache
+D:\Final Puzzle\Final Puzzle\obj\Debug\Final Puzzle.exe
+D:\Final Puzzle\Final Puzzle\obj\Debug\Final Puzzle.pdb
+D:\Final Puzzle\Final Puzzle\bin\Debug\RestSharp.dll
+D:\Final Puzzle\Final Puzzle\bin\Debug\RestSharp.xml
+D:\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.Info.resources
+D:\Final Puzzle\Final Puzzle\obj\Debug\Final Puzzle.csproj.CopyComplete
+E:\Battlefield 3\Final Puzzle\Final Puzzle\bin\Debug\Final Puzzle.exe.config
+E:\Battlefield 3\Final Puzzle\Final Puzzle\bin\Debug\Final Puzzle.exe
+E:\Battlefield 3\Final Puzzle\Final Puzzle\bin\Debug\Final Puzzle.pdb
+E:\Battlefield 3\Final Puzzle\Final Puzzle\bin\Debug\RestSharp.dll
+E:\Battlefield 3\Final Puzzle\Final Puzzle\bin\Debug\RestSharp.xml
+E:\Battlefield 3\Final Puzzle\Final Puzzle\obj\Debug\Final Puzzle.csprojAssemblyReference.cache
+E:\Battlefield 3\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.BUMI.resources
+E:\Battlefield 3\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.HalamanDepan.resources
+E:\Battlefield 3\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.Info.resources
+E:\Battlefield 3\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.MARS.resources
+E:\Battlefield 3\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.MERKURIUS.resources
+E:\Battlefield 3\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.NEPTUNUS.resources
+E:\Battlefield 3\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.Properties.Resources.resources
+E:\Battlefield 3\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.SATURNUS.resources
+E:\Battlefield 3\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.URANUS.resources
+E:\Battlefield 3\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.VENUS.resources
+E:\Battlefield 3\Final Puzzle\Final Puzzle\obj\Debug\Final_Puzzle.YUPITER.resources
+E:\Battlefield 3\Final Puzzle\Final Puzzle\obj\Debug\Final Puzzle.csproj.GenerateResource.cache
+E:\Battlefield 3\Final Puzzle\Final Puzzle\obj\Debug\Final Puzzle.csproj.CoreCompileInputs.cache
+E:\Battlefield 3\Final Puzzle\Final Puzzle\obj\Debug\Final Puzzle.csproj.CopyComplete
+E:\Battlefield 3\Final Puzzle\Final Puzzle\obj\Debug\Final Puzzle.exe
+E:\Battlefield 3\Final Puzzle\Final Puzzle\obj\Debug\Final Puzzle.pdb
